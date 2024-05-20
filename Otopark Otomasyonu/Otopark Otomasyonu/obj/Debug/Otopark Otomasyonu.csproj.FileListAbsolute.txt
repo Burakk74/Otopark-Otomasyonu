@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+C:\Users\User\source\repos\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe
+C:\Users\User\source\repos\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.pdb
+C:\Users\User\source\repos\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+C:\Users\User\source\repos\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
